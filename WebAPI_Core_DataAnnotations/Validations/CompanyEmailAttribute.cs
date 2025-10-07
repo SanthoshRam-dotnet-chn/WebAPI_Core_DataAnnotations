@@ -1,7 +1,4 @@
 ﻿using System;
-
-
-
 using System.ComponentModel.DataAnnotations;
 
 namespace WEBAPI_Core_DataAnnotations.Validators
